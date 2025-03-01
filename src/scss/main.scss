@@ -1,0 +1,23 @@
+// Main SCSS file that uses all other files
+
+// 1. Base
+@use 'base/variables';
+@use 'base/reset';
+@use 'base/typography';
+
+// 2. Components
+//@use 'components/mycomponents';
+
+
+// 3. Layout
+@use 'layout/header';
+@use 'layout/footer';
+
+
+// 4. sections
+//@use 'sections/my-section';
+
+
+
+// 7. Responsive
+@use 'responsive/media-queries';

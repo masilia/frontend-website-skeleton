@@ -1,0 +1,36 @@
+{
+  "title": "Welcome to Express Twig App",
+  "description": "A modern web application with Express and Twig templating",
+  "features": [
+    {
+      "title": "Express.js Backend",
+      "description": "Fast, unopinionated, minimalist web framework for Node.js"
+    },
+    {
+      "title": "Twig Templating",
+      "description": "Flexible, fast, and secure template engine for modern web development"
+    },
+    {
+      "title": "SCSS Architecture",
+      "description": "Organized styling with the 7-1 pattern for maintainable CSS"
+    },
+    {
+      "title": "Responsive Design",
+      "description": "Mobile-first approach ensuring great experience on all devices"
+    },
+    {
+      "title": "JSON Data Storage",
+      "description": "Simple and flexible data management using JSON files"
+    },
+    {
+      "title": "Vite Build Tool",
+      "description": "Next generation frontend tooling for faster development"
+    }
+  ],
+  "cta": {
+    "title": "Get Started Today",
+    "description": "Join thousands of developers building amazing applications with our stack.",
+    "buttonText": "Learn More",
+    "buttonLink": "/about"
+  }
+}
